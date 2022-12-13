@@ -3,7 +3,7 @@ english comment //
 
 THis program basically automates News for me everyday at 6:20 
 
-Pynput is gonna into my email and get the first message at 6 am 
+Pynput is gonna into my email and get the first message at 6 am and plays an audio (" LIKE A CLOCK")
 and that message will be a plataform where they delivers News called TheNewsCC(smooths and relaxing News about the Brazil and the world) 
 
 
