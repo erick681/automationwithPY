@@ -15,5 +15,6 @@ while True :
         time.sleep(5)
         mouse.click(Button.left,2)
         break
+        print("program finished")
 
     
